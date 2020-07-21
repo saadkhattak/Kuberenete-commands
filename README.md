@@ -2,9 +2,6 @@
 
 ## Nodes
 		
-		
-		
-
 kubectl get nodes                    # get list of node in the cluster
 kubectl get nodes -o wide            # get list of node in the cluster with wider output
 kubectl describe node kube-node      # describe a node for detailed output
